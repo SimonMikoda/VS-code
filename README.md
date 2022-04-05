@@ -1,3 +1,4 @@
+![GitHub Repo commit](https://img.shields.io/github/last-commit/SimonMikoda/VS-code)
 ## Amazing Hello World App
 
 1. Do not forget to use the virtual python env:
@@ -49,5 +50,3 @@
    ```bash
    ```
 
-<!-- ![example workflow](https://github.com/SimonMikoda/VS-code.git) -->
-![example workflow](https://github.com/SimonMikoda/VS-code/actions/workflows/workflows/badge.svg)

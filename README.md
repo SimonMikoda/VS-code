@@ -49,4 +49,5 @@
    ```bash
    ```
 
-![example workflow](https://github.com/SimonMikoda/VS-code.git)
+<!-- ![example workflow](https://github.com/SimonMikoda/VS-code.git) -->
+![example workflow](https://github.com/SimonMikoda/VS-code/actions/workflows/workflows/badge.svg)
